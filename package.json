@@ -1,0 +1,20 @@
+{
+  "name": "procurement-system",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "solc": "^0.6.0"
+  }
+}
